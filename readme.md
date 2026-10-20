@@ -1,6 +1,4 @@
-# Final Exam
-
-Repository ini merupakan daftar program untuk final exam mata kuliah Data Structures and Algorithm Analysis.
+# Data Structures and Algorithm Analysis.
 
 ---
 ### 💻 Program
@@ -9,15 +7,6 @@ Repository ini merupakan daftar program untuk final exam mata kuliah Data Struct
 - [x] Circular Queue (Array & Linked List)
 - [x] Binary Search Tree
 - [x] Hash Table (Linier Probing)
----
-
-### 👤 Identitas Mahasiswa
-- **Nama:** Egi Nugraha  
-- **NIM:** 2802597854  
-- **Mata Kuliah:** Data Structures and Algorithm Analysis  
-- **Kode Mata Kuliah:** COSC6025036
-- **Kode Kelas:** LOCA
-
 ---
 
 ### 🚀 Clone Program
@@ -71,3 +60,4 @@ cd 5
 ```bash
 javac *.java && java Main
 ```
+Maintained by [Sabio](https://sabio.co.id/)
